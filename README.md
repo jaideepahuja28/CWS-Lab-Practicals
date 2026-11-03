@@ -6,7 +6,7 @@
 * Course Title: Cloud Web Services Lab
 * Course Code: BCA-381A
 * Total Practicals: 15
-* Practicals Covered: 6
+* Practicals Covered: 7
 
 # List Of Practicals:
 1. Create an AWS Free Tier account and explore the AWS Global Infrastructure. 
